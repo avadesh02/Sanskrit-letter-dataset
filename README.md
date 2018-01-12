@@ -13,6 +13,7 @@ The dataset is structured in the following manner:
 
 Please run dbreader.py to read the dataset and understand the dataset.
 
+'''
 print('reading...')
 db = pickle.load(open("dev_letter_D.p","rb"))
 
@@ -27,3 +28,4 @@ cv2.imshow('a',db[i][0])
 cv2.waitKey()
 print("The Class index number of the sanskrit letter Image is : " + str(db[i][1]))
 print("English Class Annotation of the sanskrit Image(I-Trans) is : " + str(db[i][2]))
+'''
