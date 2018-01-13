@@ -29,7 +29,7 @@ Sample Images of Sanskrit letters in the dataset:
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/10.png)
 
-## Please run dbreader.py to read and understand the structure of the dataset.
+#### Please run dbreader.py to read and understand the structure of the dataset.
 The dataset file is dev_letter_D.p.
 
 ```
