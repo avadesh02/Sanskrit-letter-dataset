@@ -14,11 +14,11 @@ The dataset is structured in the following manner:
 		 The third element is the corresponding English class Annotation.
 
 Sample Images of Sanskrit letters in the dataset:
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/images/1.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/images/2.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/images/3.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/images/4.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/images/5.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/1.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/2.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/3.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/4.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/5.png)
 
 Please run dbreader.py to read the dataset and understand the dataset.
 
