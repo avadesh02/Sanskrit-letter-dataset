@@ -29,16 +29,12 @@ Sample Images of Sanskrit letters in the dataset:
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/10.png)
 
-Please run dbreader.py to read the dataset and understand the dataset.
+##Please run dbreader.py to read and understand the structure of the dataset.
 
+```
 print('reading...')
 db = pickle.load(open("dev_letter_D.p","rb"))
-
 print("Number of letter images in the dataset are:" + str(len(db)))
-
-
-#Please run the code below to see an Example
-```
 i = 0
 cv2.imshow('a',db[i][0])
 cv2.waitKey()
