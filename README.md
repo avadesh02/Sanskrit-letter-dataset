@@ -3,7 +3,7 @@
 This dataset has been created for the research and development of a Sanskrit OCR.
 The dataset contains 7702 images of sanskrit(Devanagari) letters belonging to 602 classes.
 
-This is a publicly available dataset can be used for further research.
+This is a publicly available dataset and can be used for further research.
 
 The dataset is structured in the following manner:
 	The data is in the form of a 2D array.
@@ -29,7 +29,8 @@ Sample Images of Sanskrit letters in the dataset:
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/10.png)
 
-##Please run dbreader.py to read and understand the structure of the dataset.
+## Please run dbreader.py to read and understand the structure of the dataset.
+The dataset file is dev_letter_D.p.
 
 ```
 print('reading...')
