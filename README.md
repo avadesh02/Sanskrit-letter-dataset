@@ -17,11 +17,11 @@ Sample Images of Sanskrit letters in the dataset:
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/1.png)
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/2.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/3.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/6.png)
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/4.png)
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/5.png)
-![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/6.png)
+![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/3.png)
 
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/7.png)
 ![alt text](https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/Images/8.png)
