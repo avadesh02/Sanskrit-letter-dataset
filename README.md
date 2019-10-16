@@ -46,5 +46,6 @@ print("English Class Annotation of the sanskrit Image(I-Trans) is : " + str(db[i
 In case this dataset is used for any research, please use the following citation :
 
 ```
-Avadesh, Meduri, and Navneet Goyal. "Optical Character Recognition for Sanskrit Using Convolution Neural Networks." In 2018 13th IAPR International Workshop on Document Analysis Systems (DAS), pp. 447-452. IEEE, 2018. 
+Avadesh, Meduri, and Navneet Goyal. "Optical Character Recognition for Sanskrit Using Convolution Neural Networks."
+In 2018 13th IAPR International Workshop on Document Analysis Systems (DAS), pp. 447-452. IEEE, 2018. 
 ```
