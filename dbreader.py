@@ -3,7 +3,7 @@ import numpy as np
 import cPickle as pickle
 
 print('reading...')
-db = pickle.load(open("dev_letter_D.p","rb"))
+db = pickle.load(open("dev_letter_D.p","rb"),encoding = "ISO-8859-1")
 
 print("Number of letter images in the dataset are:" + str(len(db)))
 
